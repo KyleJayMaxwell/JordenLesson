@@ -1,0 +1,12 @@
+h1{
+  color: #3399ff;
+}
+.bg-img{
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-image: url("../images/1.jpg");
+}
+.center{
+  text-align: center;
+}
